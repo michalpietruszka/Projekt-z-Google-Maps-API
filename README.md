@@ -16,3 +16,5 @@ Pomóż użytkownikowi znależć przychodnie o interesujących go usługach
   7. Zapewnij użyteczny widok StreetView dla każdej przcyhodni
   8. Zapewnij wyszukiwanie geometryczne (użytkownik rysuje obszar na mapie)
   9. Zapewnij prezentację miejsca z uwzględnieniem zdjęć
+
+maj 2017
