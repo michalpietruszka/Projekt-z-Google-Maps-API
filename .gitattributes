@@ -1,4 +1,4 @@
 * linguist-vendored
 *.js linguist-vendored=false
 *.js linguist-language=Javascript
-*.html linguist-language=Html
+*.html linguist-language=html
