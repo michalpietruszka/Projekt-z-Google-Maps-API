@@ -8,10 +8,9 @@ Pomóż użytkownikowi znależć przychodnie o interesujących go usługach
   3. Wyświetl strefy wizyt lekarskich dla każdej przychodni (niektóre nie mają opcji wizyty ale
   niektóre mają wizyte za darmo oraz strefę wizyty płatnej)
   4. Zapewnij filtrowanie po
-   Typie usługi lekarskiej
-   Godzinach pracy (otwarte / zamknięte)
-   Wizycie darmowej / płatnej (lokalizacja lub podany adres zawiera się w geometrii
-  dostawy)
+    - Typie usługi lekarskiej
+    - Godzinach pracy (otwarte / zamknięte)
+    - Wizycie darmowej / płatnej (lokalizacja lub podany adres zawiera się w geometrii dostawy)
   5. Zapewnij sortowanie po czasie dojazdu (z uwzględnieniem korków) – najbliższe 5
   6. Wyznacz trasę do wskazanego obiektu (pokaż geometrię na mapie)
   7. Zapewnij użyteczny widok StreetView dla każdej przcyhodni
